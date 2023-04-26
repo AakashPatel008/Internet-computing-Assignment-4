@@ -1,0 +1,64 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  padding: 20px;
+  background-color: #86F02E;
+  color: #000000;
+}
+
+.App-header h1 {
+  margin: 0;
+}
+
+.App-main {
+  display: flex;
+  padding: 20px;
+  background-color: #000000;
+  color: #69B62A 
+}
+
+.App-posts {
+  flex: 2;
+}
+
+
+.App-post {
+  margin-bottom: 20px;
+}
+
+.App-post h2 {
+  margin: 0;
+}
+
+.App-post p {
+  margin: 0px 0;
+}
+
+.App-post-image {
+  width: 50%;
+  height: 50%;
+}
+
+.App-post-summary {
+  font-style: italic;
+}
+
+.App-sidebar {
+  flex: 1;
+  padding-left: 20px;
+  background-color: #86F02E;
+  color: #EE0603;
+}
+
+.App-modal{
+  background-color: #000000;
+  color: #69B62A 
+}
+
+.App-footer {
+  padding: 10px;
+  background-color: #86F02E;
+  color: #000000;
+}
